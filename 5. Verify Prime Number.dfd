@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'Calcular Numero Primo'
+6
+2
+7
+Divisor
+1
+2
+9
+Indicador
+1
+0
+4
+1
+19
+'Ingrese un Numero'
+5
+1
+6
+numero
+9
+1
+34
+divisor < numero and indicador = 0
+6
+1
+9
+Resultado
+18
+numero mod divisor
+7
+0
+1
+11
+Resultado=0
+6
+1
+7
+divisor
+11
+divisor + 1
+13
+6
+1
+9
+indicador
+1
+1
+13
+11
+7
+0
+1
+13
+indicador = 0
+4
+1
+10
+'NO PRIMO'
+13
+4
+1
+7
+'PRIMO'
+13
+1
